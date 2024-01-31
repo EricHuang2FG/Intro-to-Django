@@ -3,8 +3,6 @@
 #include <cmath>
 using namespace std;
 
-// test
-
 void print(vector <vector <int>> text) {
     string display = "";
     for (int i = 0; i < text.size(); i++) {
